@@ -1,4 +1,4 @@
-# 📈 Historical Stock Market Analysis of Big Tech (2010–2025)
+# 📈 Stock Market Analysis of Big Tech Companies (2010–2025)
 
 Figures: https://sundar139.github.io/Stocks-Data-Analysis/
 
